@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 # Amie Edwards 👩‍💻
 
 Trainee Software Developer
