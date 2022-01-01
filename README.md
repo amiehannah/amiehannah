@@ -1,4 +1,8 @@
 ### Hi there 👋
+# Amie Edwards 👩‍💻
+
+Trainee Software Developer
+
 
 <!--
 **amiehannah/amiehannah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
