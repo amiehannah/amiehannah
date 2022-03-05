@@ -7,8 +7,8 @@ Trainee Software Developer
 amie = { 
 	firstName: “Amie”,
 	lastName: “Edwards”,
-	currentJob: "menswear fashion designer",
-	education: "nology software developer",
+	currentJob: "Menswear Fashion Designer",
+	education: "_nology Software Developer",
 	skills: ['JavaScript', 'HTML', 'CSS', ‘React’],
 }
 
