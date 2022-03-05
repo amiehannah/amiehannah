@@ -13,6 +13,6 @@ amie = { &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 
 
-• My journey 🏔️
-March 2021: Self-paced Software Developer Course @ Nology
-May 2020: Introduction to Web Development @ Code First Girls
+- My journey 🏔️
+- March 2021: Self-paced Software Developer Course @ Nology
+- May 2020: Introduction to Web Development @ Code First Girls
