@@ -19,7 +19,6 @@ amie = {
 
 
 
----
 
 ## 🏔️ My journey 
 - March 2021: Self-paced Software Developer Course @ _nology
