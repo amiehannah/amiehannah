@@ -3,13 +3,16 @@
 
 Trainee Software Developer
 
-amie = { &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	firstName: “Amie” &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-	lastName: “Edwards”
-	currentJob: "menswear fashion designer" 👔 
-	education: "nology software developer" 
-	skills: ['JavaScript', 'HTML', 'CSS', ‘React’]
+```
+amie = { 
+	firstName: “Amie”,
+	lastName: “Edwards”,
+	currentJob: "menswear fashion designer",
+	education: "nology software developer",
+	skills: ['JavaScript', 'HTML', 'CSS', ‘React’],
 }
+
+```
 
 
 
