@@ -4,7 +4,7 @@
 Trainee Software Developer
 
 amie = {
-	firstName: “Amie” &nbsp;
+	firstName: “Amie” &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	lastName: “Edwards”
 	currentJob: "menswear fashion designer" 👔 
 	education: "nology software developer" 
