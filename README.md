@@ -3,7 +3,7 @@
 
 Trainee Software Developer
 
-amie = {
+amie = { &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	firstName: “Amie” &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	lastName: “Edwards”
 	currentJob: "menswear fashion designer" 👔 
