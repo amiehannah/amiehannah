@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+![](https://github.com/amiehannah/amiehannah/blob/main/Artboard%201.png)
 # Amie Edwards 👩‍💻
 
 Trainee Software Developer
