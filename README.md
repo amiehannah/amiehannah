@@ -3,6 +3,14 @@
 
 Trainee Software Developer
 
+amie = {
+	firstName: “Amie”
+	lastName: “Edwards”
+	currentJob: "menswear fashion designer" 👔 
+	education: "nology software developer" 
+	skills: ['JavaScript', 'HTML', 'CSS', ‘React’]
+}
+
 
 <!--
 **amiehannah/amiehannah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
