@@ -9,13 +9,13 @@ amie = {
 	lastName: “Edwards”,
 	currentJob: "Menswear Fashion Designer",
 	education: "_nology Software Developer",
-	skills: ['JavaScript', 'HTML', 'CSS', ‘React’],
+	skills: ['JavaScript', 'HTML', 'CSS', ‘React’]
 }
 
 ```
 
 
-## 🤖 Tech Stack
+## 🤖 Technologies / Skills
 
 
 
