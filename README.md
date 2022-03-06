@@ -3,7 +3,7 @@
 
 Trainee Software Developer
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-AmieEdwards-blue)](https://www.linkedin.com/in/amie-edwards-70a19068/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmieEdwards-blue)](https://www.linkedin.com/in/amie-edwards-70a19068/)
 
 ```
 amie = { 
@@ -18,7 +18,8 @@ amie = {
 
 
 ## 🤖 Technologies / Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=lightgrey&style=flat-square)
+
 
 
 
