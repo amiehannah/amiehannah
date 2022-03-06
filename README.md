@@ -22,8 +22,8 @@ amie = {
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&style=flat-square)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white&style=flat-square)
 ![AdobeCreativeSuite](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white&style=flat-square)
 
 
 ## 🏔️ My journey 
