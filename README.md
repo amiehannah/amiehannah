@@ -20,7 +20,7 @@ amie = {
 ## 🤖 Technologies / Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-#F7DF1E?logo=javascript&logoColor=white&style=flat-square) 
 ![HTML](https://img.shields.io/badge/-HTML5-#E34F26?logo=html&logoColor=lightgrey&style=flat-square) 
-
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&link=/)
 
 
 ## 🏔️ My journey 
