@@ -18,8 +18,8 @@ amie = {
 
 
 ## 🤖 Technologies / Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-#F7DF1E?logo=javascript&logoColor=white&style=flat-square&logoWidth=30) 
-![HTML](https://img.shields.io/badge/-HTML5-#E34F26?logo=html&logoColor=lightgrey&style=flat-square&logoWidth=30) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-#F7DF1E?logo=javascript&logoColor=white&style=flat-square) 
+![HTML](https://img.shields.io/badge/-HTML5-#E34F26?logo=html&logoColor=lightgrey&style=flat-square) 
 
 
 
