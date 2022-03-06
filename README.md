@@ -19,12 +19,12 @@ amie = {
 
 
 ## 🤖 Technologies / Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![AdobeCreativeSuite](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=white&style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square&link=/) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square&link=/)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square&link=/)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square&link=/)
+![AdobeCreativeSuite](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=white&style=flat-square&link=/)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square&link=/)
 
 
 ## 🏔️ My journey 
