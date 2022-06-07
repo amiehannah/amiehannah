@@ -1,4 +1,4 @@
-![](https://github.com/amiehannah/amiehannah/blob/main/Artboard%201.png)
+![](https://github.com/amiehannah/amiehannah/blob/main/green-colourway.png)
 # Amie Edwards 👩‍💻
 
 Trainee Software Developer
