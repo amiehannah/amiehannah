@@ -11,7 +11,7 @@ Frontend Software Developer
 amie = { 
 	firstName: “Amie”,
 	lastName: “Edwards”,
-	currentJob: "Frontend Developer",
+	currentJob: "Frontend Developer @ Sage",
 	education: "_nology Software Developer",
 	skills: [‘React’, 'TypeScript', 'JavaScript', 'HTML', 'CSS' ]
 }
