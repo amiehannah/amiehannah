@@ -1,7 +1,7 @@
 ![](https://github.com/amiehannah/amiehannah/blob/main/green-colourway.png)
 # Amie Edwards 👩‍💻
 
-Trainee Software Developer
+Frontend Software Developer
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-AmieEdwards-blue)](https://www.linkedin.com/in/amie-edwards-70a19068/) -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/amie-edwards-70a19068/)
@@ -11,9 +11,9 @@ Trainee Software Developer
 amie = { 
 	firstName: “Amie”,
 	lastName: “Edwards”,
-	currentJob: "Menswear Fashion Designer",
+	currentJob: "Frontend Developer",
 	education: "_nology Software Developer",
-	skills: ['JavaScript', 'HTML', 'CSS', ‘React’]
+	skills: [‘React’, 'TypeScript', 'JavaScript', 'HTML', 'CSS' ]
 }
 
 ```
@@ -29,6 +29,7 @@ amie = {
 
 
 ## 🏔️ My journey 
+- October 2022: Graduate Frontend Developer @ Sage
 - April 2021: Self-paced Software Developer Course @ _nology
 - May 2020: Introduction to Web Development @ Code First Girls
 
